@@ -10,7 +10,7 @@ public class bai2 {
 
     public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
-        
+         
         System.out.print("Nhap he so a: ");
         double a = scanner.nextDouble();
         System.out.print("Nhap he so b: ");
