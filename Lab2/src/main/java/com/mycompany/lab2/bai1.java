@@ -10,8 +10,9 @@ import java.util.Scanner;
  * @author ICT
  */
 public class bai1 {
-
+ 
     public static void main(String[] args) {
+        System.out.println("Hello");
                 Scanner scanner = new Scanner(System.in);
         System.out.print("Nhap he so a: ");
         double a = scanner.nextDouble();
